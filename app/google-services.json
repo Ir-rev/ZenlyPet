@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8898913483",
+    "project_id": "zenly-pet",
+    "storage_bucket": "zenly-pet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8898913483:android:5ad05e5882f1e04257274e",
+        "android_client_info": {
+          "package_name": "ir.rev.zenlypet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8898913483-7jb3ck1skjqurk8122aap5i8sbohsfeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8-zkbPO6RieKJ04f_8ub5zkrdcJP8faA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8898913483-7jb3ck1skjqurk8122aap5i8sbohsfeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
