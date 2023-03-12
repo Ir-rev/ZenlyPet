@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "ZenlyPet"
 include ':app'
 include ':auth'
+include ':firebaseRoot'
+include ':map'
