@@ -9,7 +9,7 @@ import kotlinx.coroutines.launch
 
 class HostViewModel : ViewModel() {
 
-    private val _actions = MutableSharedFlow<Action>()
+    private val _actions = MutableSharedFlow<Action>(replay = 1)
     val actions: SharedFlow<Action> = _actions
 
     init {

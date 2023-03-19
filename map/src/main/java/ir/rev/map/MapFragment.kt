@@ -1,6 +1,7 @@
 package ir.rev.map
 
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -14,7 +15,7 @@ internal class MapFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        MapKitFactory.setApiKey("fbedf253-78bd-465a-8980-ffb2a26f88ce")
+        MapPlugin.setMapApiKey()
     }
 
     override fun onCreateView(
