@@ -1,6 +1,7 @@
 package ir.rev.zenlypet.firebaseroot
 
 import io.reactivex.rxjava3.core.Observable
+import ir.rev.response_models.AuthState
 
 interface FirebaseAuthRepository {
 

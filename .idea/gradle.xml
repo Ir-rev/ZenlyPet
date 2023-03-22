@@ -14,7 +14,8 @@
             <option value="$PROJECT_DIR$/auth" />
             <option value="$PROJECT_DIR$/firebaseRoot" />
             <option value="$PROJECT_DIR$/map" />
-            <option value="$PROJECT_DIR$/mapUtils" />
+            <option value="$PROJECT_DIR$/map-repository" />
+            <option value="$PROJECT_DIR$/response_models" />
           </set>
         </option>
       </GradleProjectSettings>

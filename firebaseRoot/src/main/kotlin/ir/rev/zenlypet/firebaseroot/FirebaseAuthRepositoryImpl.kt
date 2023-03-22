@@ -3,6 +3,7 @@ package ir.rev.zenlypet.firebaseroot
 import com.google.firebase.auth.FirebaseAuth
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.subjects.PublishSubject
+import ir.rev.response_models.AuthState
 
 internal class FirebaseAuthRepositoryImpl : FirebaseAuthRepository {
 

@@ -1,4 +1,4 @@
-package ir.rev.zenlypet.firebaseroot
+package ir.rev.response_models
 
 sealed class AuthState {
 
